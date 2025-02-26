@@ -24,8 +24,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=karan-gaur&label=Profile%20views&color=0e75b6&style=flat" alt="karan-gaur" /> </p>
 
 <div align="center">
-
-  🔎 **Looking for full-time opportunities in USA**
   
   🔨 I’m currently working on a subscription management portal -  **Manage Me**
   
